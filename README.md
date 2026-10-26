@@ -59,3 +59,10 @@ requirements.txt     # dependências com versões fixas
 
 - Gustavo emanuel Scandolara morgenstern  (@1Gogas)
 - Marlon gustavo da silva (@AZNOM8687)
+
+
+
+
+## Histórico de commits
+
+![Histórico de commits](docs/historico-git.png)
