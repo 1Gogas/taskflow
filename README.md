@@ -57,5 +57,5 @@ requirements.txt     # dependências com versões fixas
 
 ## Integrantes
 
-- Nome 1 (@usuario-github)
-- Nome 2 (@usuario-github)
+- Gustavo emanuel Scandolara morgenstern  (@1Gogas)
+- Marlon gustavo da silva (@AZNOM8687)
